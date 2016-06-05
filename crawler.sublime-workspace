@@ -1,0 +1,1722 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"num_urls"
+			],
+			[
+				"num_",
+				"num_new_urls	(reporter.py)"
+			],
+			[
+				"craw",
+				"crawl"
+			],
+			[
+				"crwal",
+				"crawler"
+			],
+			[
+				"hand",
+				"handler_factory"
+			],
+			[
+				"run",
+				"run_until_complete	(crawl.py)"
+			],
+			[
+				"SOCK_S",
+				"SOCK_STREAM	instance"
+			],
+			[
+				"as",
+				"asyncio"
+			],
+			[
+				"Key",
+				"KeyboardInterrupt	(reporter.py)"
+			],
+			[
+				"max",
+				"max_tasks"
+			],
+			[
+				"max_t",
+				"max_tasks	(reporter.py)"
+			],
+			[
+				"max_",
+				"max_tries	(crawler.py)"
+			],
+			[
+				"ex",
+				"exclude	(crawler.py)"
+			],
+			[
+				"Pro",
+				"ProactorEventLoop"
+			],
+			[
+				"log",
+				"logging"
+			],
+			[
+				"add_",
+				"add_argument	function"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"exc",
+				"exclude"
+			],
+			[
+				"exce",
+				"except"
+			],
+			[
+				"fin",
+				"finally	keyword"
+			],
+			[
+				"seen",
+				"seen_urls"
+			],
+			[
+				"nex",
+				"next_url"
+			],
+			[
+				"Fet",
+				"FetchStatistic"
+			],
+			[
+				"le",
+				"lenient_host"
+			],
+			[
+				"low",
+				"lower"
+			],
+			[
+				"max_tr",
+				"max_tries"
+			],
+			[
+				"auto",
+				"auto_rejected"
+			],
+			[
+				"$sta",
+				"$stateParams"
+			],
+			[
+				"$st",
+				"$stateParams"
+			],
+			[
+				"danhC",
+				"danhCapData"
+			],
+			[
+				"findDanh",
+				"findDanhCapFromServer"
+			],
+			[
+				"unf",
+				"undefined"
+			],
+			[
+				"USER",
+				"USER_NAME"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"userRe",
+				"userRelativeMsg"
+			],
+			[
+				"current_de",
+				"current_device_id"
+			],
+			[
+				"device",
+				"device_id	(insert_device_modal.tpl.html)"
+			],
+			[
+				"accp",
+				"accepted_today"
+			],
+			[
+				"getAl",
+				"getAllPaymentByTime"
+			],
+			[
+				"totalMo",
+				"totalMoneyInput"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"deta",
+				"detailMessage"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"rewar",
+				"rewarded_type"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"row",
+				"rowspan	Attr"
+			],
+			[
+				"SENDER",
+				"SEND_MESSAGE_SERVICE"
+			],
+			[
+				"fil",
+				"filteredusers"
+			],
+			[
+				"ad",
+				"adminPG"
+			],
+			[
+				"getFee",
+				"getFeedbackByTime"
+			],
+			[
+				"rad",
+				"radioType"
+			],
+			[
+				"parter",
+				"partners"
+			],
+			[
+				"Bet",
+				"BetFactory"
+			],
+			[
+				"Aw",
+				"AwardFactory"
+			],
+			[
+				"Admin",
+				"AdminFactory"
+			],
+			[
+				"Eve",
+				"EventFactory"
+			],
+			[
+				"Adv",
+				"AdvFactory"
+			],
+			[
+				"Ev",
+				"EventFactory	(event.ft.js)"
+			],
+			[
+				"adv",
+				"adv"
+			],
+			[
+				"Pay",
+				"PaymentFactory"
+			],
+			[
+				"create",
+				"createInven	(main.svs.js)"
+			],
+			[
+				"jav",
+				"javascript"
+			],
+			[
+				"mini",
+				"minified.js"
+			],
+			[
+				"loginL",
+				"loginLogs"
+			],
+			[
+				"login",
+				"loginLog	(index.tpl.html)"
+			],
+			[
+				"fileredPa",
+				"filteredPaidUsers"
+			],
+			[
+				"k",
+				"keyName"
+			],
+			[
+				"pN",
+				"pName"
+			],
+			[
+				"label",
+				"labels"
+			],
+			[
+				"open",
+				"opened1"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"start",
+				"start_time_moment	(index.tpl.html)"
+			],
+			[
+				"smsPl",
+				"smsPlusStatisticData"
+			],
+			[
+				"sms",
+				"smsMoney"
+			],
+			[
+				"smsS",
+				"smsStatisticData"
+			],
+			[
+				"hour",
+				"hourStep"
+			],
+			[
+				"minu",
+				"minuteStep"
+			],
+			[
+				"detai",
+				"detailAdv"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"image",
+				"image_url"
+			],
+			[
+				"BA",
+				"BASE_URL"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"clos",
+				"closeAlert"
+			],
+			[
+				"sel",
+				"selectedConfig"
+			],
+			[
+				"enabl",
+				"enable_minbets"
+			],
+			[
+				"con",
+				"configs"
+			],
+			[
+				"det",
+				"detailValue"
+			],
+			[
+				"get",
+				"getMinBetValues"
+			],
+			[
+				"game",
+				"game_code"
+			],
+			[
+				"enable",
+				"enable_minbet"
+			],
+			[
+				"selec",
+				"selectedConfigs"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"enab",
+				"enableMinbetArray"
+			],
+			[
+				"min",
+				"minBetValues"
+			],
+			[
+				"getGame",
+				"getGameConfigFromServer"
+			],
+			[
+				"select",
+				"selectedGame"
+			],
+			[
+				"Tween",
+				"TweenLite"
+			],
+			[
+				"getConf",
+				"getConfigsFromServer"
+			],
+			[
+				"swt",
+				"switch"
+			],
+			[
+				"swi",
+				"switcher.js"
+			],
+			[
+				"defaul",
+				"defaultDateRange	(stat_user.ctrl.js)"
+			],
+			[
+				"path",
+				"path_line"
+			],
+			[
+				"createE",
+				"createElementNS"
+			],
+			[
+				"$ro",
+				"$rootScope"
+			],
+			[
+				"partner",
+				"partner_id"
+			],
+			[
+				"trans",
+				"transitionTo"
+			],
+			[
+				"part",
+				"partner_id	(authen.svs.js)"
+			],
+			[
+				"$local",
+				"$localStorage"
+			],
+			[
+				"Auth",
+				"AuthenFactory"
+			],
+			[
+				"total",
+				"totalItems"
+			],
+			[
+				"last_",
+				"last_login_time	(charts.tpl.html)"
+			],
+			[
+				"last",
+				"last_login_time"
+			],
+			[
+				"filter",
+				"filteredlogs"
+			],
+			[
+				"action",
+				"action_types"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"load",
+				"loadingCount"
+			],
+			[
+				"$routeCha",
+				"$routeChangeStart	AngularJS (E)"
+			],
+			[
+				"loading",
+				"loading_screen"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"success",
+				"successfully	(admin.ctrl.js)"
+			],
+			[
+				"delte",
+				"deleteEvent"
+			],
+			[
+				"PCU",
+				"PCUChart"
+			],
+			[
+				"CCU",
+				"CCUChart"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "reporter.py",
+			"settings":
+			{
+				"buffer_size": 2400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crawler.py",
+			"settings":
+			{
+				"buffer_size": 9805,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crawl.py",
+			"settings":
+			{
+				"buffer_size": 2747,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 4501,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"inte",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setsyjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"angularjs",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"setsyntax ryb",
+				"Set Syntax: Ruby"
+			],
+			[
+				"setsyntax cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax r",
+				"Set Syntax: Ruby"
+			],
+			[
+				"set syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syntax rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"set syntax: co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"erp",
+				"SublimeREPL: Shell"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify: Convert from SASS to current type"
+			],
+			[
+				"set syntax sas",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"clear",
+			"--trace",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/madcat/PycharmProjects/py-webcrawler"
+	],
+	"file_history":
+	[
+		"/home/madcat/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/madcat/PycharmProjects/py-webcrawler/requirements",
+		"/home/madcat/PycharmProjects/py-webcrawler/.gitignore",
+		"/var/www/html/x-client/partials/exchange/index.tpl.html",
+		"/var/www/html/x-client/scripts/directives/date_picker.js",
+		"/var/www/html/x-client/lib/datetimepicker/datetimepicker.js",
+		"/var/www/html/x-client/templates/datepicker.html",
+		"/var/www/html/x-client/partials/payments.tpl.html",
+		"/var/www/html/x-client/gulpfile.js",
+		"/var/www/html/x-client/partials/users/index.tpl.html",
+		"/var/www/html/x-client/sidebar.html",
+		"/var/www/html/x-client/scripts/services/main.svs.js",
+		"/var/www/html/x-client/index.html",
+		"/var/www/html/x-client/partials/users/user_coin_wg.tpl.html",
+		"/var/www/html/x-client/scripts/controllers/statistic/stat_user.ctrl.js",
+		"/var/www/html/x-client/partials/payments/user_coin.tpl.html",
+		"/var/www/html/x-client/scripts/controllers/exchange.ctrl.js",
+		"/var/www/html/x-client/scripts/services/factories/payment.ft.js",
+		"/var/www/html/x-client/partials/message/edit.tpl.html",
+		"/var/www/html/x-client/partials/message/create.tpl.html",
+		"/var/www/html/x-client/scripts/controllers/pci.ctrl.js",
+		"/var/www/html/x-client/partials/users/user_exchange_history_wg.tpl.html",
+		"/var/www/html/x-client/partials/statistics/user/user_active_wg.tpl.html",
+		"/var/www/html/x-client/scripts/controllers/stat.ctrl.js",
+		"/var/www/html/x-client/scripts/services/factories/award.ft.js",
+		"/var/www/html/x-client/scripts/services/factories/adv.ft.js",
+		"/var/www/html/x-client/partials/home.html",
+		"/var/www/html/x-client/.gitignore",
+		"/var/www/html/x-client/scripts/services/factories/admin.ft.js",
+		"/var/www/html/x-client/scripts/services/factories/message.ft.js",
+		"/var/www/html/x-client/scripts/services/factories/event.ft.js",
+		"/var/www/html/x-client/scripts/services/factories/pci.ft.js",
+		"/var/www/html/x-client/scripts/services/factories/users.ft.js",
+		"/var/www/html/x-client/scripts/services/factories/statistic.ft.js",
+		"/var/www/html/x-client/partials/message/index.tpl.html",
+		"/var/www/html/x-client/partials/users/user_history_wg.tpl.html",
+		"/var/www/html/x-client/scripts/controllers/user.ctrl.js",
+		"/var/www/html/x-client/scripts/controllers/exchange/exchange_history.ctrl.js",
+		"/var/www/html/x-client/scripts/controllers/exchange_inventory.ctrl.js",
+		"/var/www/html/x-client/scripts/controllers/exchange/exchange_inventory.ctrl.js",
+		"/var/www/html/x-client/scripts/controllers/award.ctrl.js",
+		"/var/www/html/x-client/build/minified-min.js",
+		"/var/www/html/x-client/build/concat.js",
+		"/var/www/html/x-client/build/minified.js",
+		"/var/www/html/x-client/build/uglify.js",
+		"/var/www/html/x-client/partials/exchange/create.tpl.html",
+		"/var/www/html/x-client/partials/exchange/config/create.tpl.html",
+		"/var/www/html/x-client/partials/exchange/config/edit.tpl.html",
+		"/var/www/html/x-client/partials/exchange/edit.tpl.html",
+		"/var/www/html/x-client/partials/adv_banner/index.tpl.html",
+		"/var/www/html/x-client/partials/adv_banner/create.tpl.html",
+		"/var/www/html/x-client/partials/payments/bank_payment.tpl.html",
+		"/var/www/html/x-client/scripts/controllers/home.ctrl.js",
+		"/var/www/html/x-client/scripts/services/authen.svs.js",
+		"/var/www/html/x-client/partials/feedback/index.tpl.html",
+		"/var/www/html/x-client/partials/users/customer_care_wg.tpl.html",
+		"/var/www/html/x-client/partials/payments/telco.tpl.html",
+		"/var/www/html/x-client/scripts/controllers/pay.ctrl.js",
+		"/var/www/html/x-client/partials/statistics/user/modal/insert_device_modal.tpl.html",
+		"/var/www/html/x-client/partials/statistics/user/user.tpl.html",
+		"/var/www/html/x-client/scripts/directives/date_picker.tpl.html",
+		"/var/www/html/x-client/partials/statistics/user/new_installed_devices_wg.tpl.html",
+		"/var/www/html/x-client/scripts/controllers/chart.ctrl.js",
+		"/var/www/html/x-client/partials/statistics/coin/coin.tpl.html",
+		"/var/www/html/x-client/assets/css/style.css",
+		"/var/www/html/x-client/scripts/controllers/admin.ctrl.js",
+		"/var/www/html/x-client/partials/admin/index.tpl.html",
+		"/var/www/html/x-client/partials/admin/create.tpl.html",
+		"/var/www/html/x-client/partials/events.tpl.html",
+		"/var/www/html/x-client/scripts/constant.conf.js",
+		"/var/www/html/x-client/scripts/controllers/adv_banner.ctrl.js",
+		"/var/www/html/x-client/scripts/directives/_paginate.js",
+		"/var/www/html/x-client/scripts/controllers/feedback.ctrl.js",
+		"/var/www/html/x-client/scripts/controllers/statistic/stat_coin.ctrl.js",
+		"/var/www/html/x-client/scripts/services/UtilityFunctions.js",
+		"/var/www/html/x-client/partials/statistics/user/user_new_by_partner_wg.tpl.html",
+		"/var/www/html/x-client/partials/charts.tpl.html",
+		"/var/www/html/x-client/scripts/app.js",
+		"/var/www/html/x-client/partials/statistics/user/return_user.tpl.html",
+		"/var/www/html/x-client/partials/exchange/history/index.tpl.html",
+		"/var/www/html/x-client/partials/admin/value/index.tpl.html",
+		"/var/www/html/x-client/partials/statistics/game/game.tpl.html",
+		"/var/www/html/x-client/partials/payments/all.tpl.html",
+		"/var/www/html/x-client/partials/signin.html",
+		"/var/www/html/x-client/partials/admin/bet/index.tpl.html",
+		"/var/www/html/x-client/partials/events/create.tpl.html",
+		"/var/www/html/x-client/partials/events/update.tpl.html",
+		"/var/www/html/x-client/partials/payments/outgame_payment.tpl.html",
+		"/var/www/html/x-client/scripts/controllers/admin_bet.ctrl.js",
+		"/var/www/html/x-client/partials/pci/index.tpl.html",
+		"/var/www/html/x-client/partials/pci/edit.tpl.html",
+		"/var/www/html/x-client/partials/message/xmessage/edit.tpl.html",
+		"/var/www/html/x-client/scripts/controllers/message.ctrl.js",
+		"/var/www/html/x-client/scripts/controllers/event.ctrl.js",
+		"/var/www/html/x-client/scripts/directives/switcher.js",
+		"/var/www/html/x-client/scripts/filters/startFrom.filter.js",
+		"/var/www/html/x-client/scripts/directives/switcher.tpl.html",
+		"/var/www/html/x-client/package.json",
+		"/var/www/html/x-client/build/uglify.js.map",
+		"/var/www/html/x-client/partials/adv_banner/edit.tpl.html",
+		"/var/www/html/x-client/partials/statistics/user/user_logged_in_wg.tpl.html",
+		"/var/www/html/x-client/scripts/controllers/statistic/stat_activity.ctrl.js",
+		"/var/www/html/x-client/lib/datepicker/dateRanger.js",
+		"/var/www/html/x-client/partials/exchange/config/index.tpl.html",
+		"/var/www/html/x-client/partials/admin/value/update.tpl.html",
+		"/var/www/html/x-client/partials/pci/create.tpl.html",
+		"/var/www/html/x-client/node_modules/ng-file-upload/node_modules/grunt/node_modules/underscore.string/test/test_underscore/functions.js",
+		"/var/www/html/x-client/partials/admin/reset.tpl.html",
+		"/var/www/html/x-client/partials/statistics/activity/activity.tpl.html",
+		"/home/madcat/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/madcat/Desktop/index.html",
+		"/var/www/html/x-client/partials/statistics/user/user_new_register_wg.tpl.html",
+		"/var/www/html/x-client/partials/statistics/statistics.tpl.html",
+		"/var/www/html/x-client/partials/statistics/statistic/game.tpl.html",
+		"/home/madcat/Desktop/test.html",
+		"/home/madcat/WebstormProjects/hiVN2/www/js/app.js",
+		"/var/www/html/x-client/partials/users/customer_care_create_modal.tpl.html",
+		"/var/www/html/x-client/lib/datepicker/datepicker.js",
+		"/var/www/html/x-client/partials/test.tpl.html",
+		"/var/www/html/x-client/partials/feedback/reply_modal.tpl.html",
+		"/var/www/html/x-client/partials/users/user_search_results_wg.tpl.html",
+		"/var/www/html/x-client/partials/users/user_history_wg.tpl.htm",
+		"/var/www/html/x-client/partials/users/customer_care_update_modal.tpl.html",
+		"/var/www/html/x-client/partials/users/reset.tpl.html",
+		"/var/www/html/x-client/node_modules/ng-file-upload/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/examples/constants.js",
+		"/var/www/html/x-client/partials/users/detail.tpl.html",
+		"/var/www/html/x-client/assets/css/chart.css",
+		"/var/www/html/x-client/partials/statistics/user.tpl.html"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+			"",
+			"exchange."
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"assertEqual",
+			"crawler",
+			"assertEqual",
+			"exception",
+			"url_allowed",
+			"selft",
+			"lenient_host",
+			"$parent.haveAward",
+			"alert",
+			"award",
+			"totalInputMoney",
+			"relatives",
+			"getCardDataFromServer",
+			"payment",
+			"users",
+			"user.",
+			"userRelativeMsg",
+			"balerts",
+			"alert",
+			"alert-warning",
+			"alert",
+			"$window",
+			"relative",
+			"postFindUsersLoggedInByDeviceID",
+			"Relatives",
+			"findUsersLoggedInByDeviceIDFromServer",
+			"findUserLoggedInByDeviceID",
+			"relative",
+			"relatives",
+			"findUserLoggedInByDeviceID",
+			"relative",
+			"postFindUsersLoggedInByUsername",
+			"findUsersLoggedInByDeviceIDFromServer",
+			"findUserLoggedInByDeviceID",
+			"current_device_id",
+			"current_device_id_bk",
+			"postFindUsersLoggedInByDeviceID",
+			"current_device_id",
+			"findUsersLoggedInByDeviceIDFromServer",
+			"userDeviceId",
+			"current_device_id",
+			"current_device_id_bk",
+			"relative",
+			"moment",
+			"res.data.coin",
+			"userPayment",
+			"relatives",
+			"$watch",
+			"filter",
+			"pageLogSize",
+			"usersPlayed",
+			"userPlayed",
+			"usersPlayed",
+			"pageSize",
+			"alert",
+			"findUsersLoggedInByDeviceIDFromServer",
+			"postFindUsersLoggedInByDeviceID",
+			"logs",
+			"fa-user",
+			"data[0]",
+			"console.log",
+			"isMyself",
+			"result",
+			"$scope.result",
+			"totalUserCoin",
+			"console.",
+			"console.log",
+			"totalUserC",
+			"coin",
+			"sPaymentByTime",
+			"alert",
+			"addCoin",
+			"alter",
+			"ALL",
+			"accept",
+			"action_types",
+			"card",
+			"$rootScope",
+			"totalWINPHONE",
+			"out",
+			"Out game",
+			"all",
+			"ng-show=\"result\"",
+			"aler",
+			"hal",
+			"xa",
+			"createMessage",
+			"getAwardHistories",
+			"getAwardHistoriesFromServer",
+			"products",
+			"loadCoinHistories",
+			"history",
+			"rootSc",
+			"\"></",
+			"charged_count",
+			"charged_sms_count",
+			"payment",
+			"addCoin",
+			"userID",
+			"haveAward",
+			"userCoin",
+			"EXCHANGE_ITEM_STATUS",
+			"status",
+			"root",
+			"payment",
+			"loadUserCoinHistories",
+			"loadCoinHistories",
+			"Util",
+			"userId",
+			"loadHistories",
+			"getAwardHistories",
+			"exDate",
+			"EXCHANGE_SENDER_SERVICE",
+			"SENDER",
+			"params",
+			"sendMessage",
+			"requestTime",
+			"accep",
+			"adminPG",
+			"console.",
+			"user",
+			"develope",
+			"award",
+			"bet",
+			"event",
+			"adv",
+			"payment",
+			"users"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"device",
+			"newDevice",
+			"exPG",
+			"exchange",
+			"exchange.",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "reporter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/primer.dark (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "crawler.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								796,
+								796
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/primer.dark (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 299.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "crawl.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2436,
+								2436
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/primer.dark (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4
+						},
+						"translation.x": 0.0,
+						"translation.y": 1102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4501,
+								4501
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/primer.dark (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4
+						},
+						"translation.x": 0.0,
+						"translation.y": 2867.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 140.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "crawler.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"exchangehisto",
+				"partials/exchange/history/index.tpl.html"
+			],
+			[
+				"exchangeindex",
+				"partials/exchange/index.tpl.html"
+			],
+			[
+				"userexchange",
+				"partials/users/user_exchange_history_wg.tpl.html"
+			],
+			[
+				"userindex",
+				"partials/users/index.tpl.html"
+			],
+			[
+				"cons",
+				"scripts/constant.conf.js"
+			],
+			[
+				"userctr",
+				"scripts/controllers/user.ctrl.js"
+			],
+			[
+				"const",
+				"scripts/constant.conf.js"
+			],
+			[
+				"exchangehist",
+				"partials/exchange/history/index.tpl.html"
+			],
+			[
+				"userdanh",
+				"scripts/controllers/user_danhcap.ctrl.js"
+			],
+			[
+				"danh",
+				"partials/users/danhcap.tpl.html"
+			],
+			[
+				"uti",
+				"scripts/services/UtilityFunctions.js"
+			],
+			[
+				"pay",
+				"scripts/controllers/pay.ctrl.js"
+			],
+			[
+				"user_da",
+				"scripts/controllers/user_danhcap.ctrl.js"
+			],
+			[
+				"date_",
+				"scripts/directives/date_picker.js"
+			],
+			[
+				"datetime",
+				"lib/datetimepicker/datetimepicker.js"
+			],
+			[
+				"date",
+				"templates/datepicker.html"
+			],
+			[
+				"usercoin",
+				"partials/payments/user_coin.tpl.html"
+			],
+			[
+				"danhc",
+				"partials/users/danhcap.tpl.html"
+			],
+			[
+				"userf",
+				"scripts/services/factories/users.ft.js"
+			],
+			[
+				"util",
+				"scripts/services/UtilityFunctions.js"
+			],
+			[
+				"gulpfi",
+				"gulpfile.js"
+			],
+			[
+				"payuseri",
+				"partials/payments/user_coin.tpl.html"
+			],
+			[
+				"paym",
+				"partials/payments.tpl.html"
+			],
+			[
+				"home",
+				"partials/home.html"
+			],
+			[
+				"app",
+				"scripts/app.js"
+			],
+			[
+				"user_r",
+				"scripts/controllers/user_relative.ctrl.js"
+			],
+			[
+				"homec",
+				"scripts/controllers/home.ctrl.js"
+			],
+			[
+				"hom",
+				"partials/home.html"
+			],
+			[
+				"danhca",
+				"partials/users/danhcap.tpl.html"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"user.c",
+				"scripts/controllers/user.ctrl.js"
+			],
+			[
+				"side",
+				"sidebar.html"
+			],
+			[
+				"main",
+				"scripts/services/main.svs.js"
+			],
+			[
+				"stat_c",
+				"scripts/controllers/statistic/stat_coin.ctrl.js"
+			],
+			[
+				"feed",
+				"scripts/controllers/feedback.ctrl.js"
+			],
+			[
+				"g",
+				"gulpfile.js"
+			],
+			[
+				"chart.js",
+				"scripts/controllers/chart.ctrl.js"
+			],
+			[
+				"feedbac",
+				"scripts/controllers/feedback.ctrl.js"
+			],
+			[
+				"statcoin",
+				"scripts/controllers/statistic/stat_coin.ctrl.js"
+			],
+			[
+				"statctr",
+				"scripts/controllers/statistic/stat_activity.ctrl.js"
+			],
+			[
+				"statft",
+				"scripts/services/factories/statistic.ft.js"
+			],
+			[
+				"staticft",
+				"scripts/services/factories/statistic.ft.js"
+			],
+			[
+				"stat_use",
+				"scripts/controllers/statistic/stat_user.ctrl.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"user.ctr",
+				"scripts/controllers/user.ctrl.js"
+			],
+			[
+				"userhist",
+				"partials/users/user_history_wg.tpl.html"
+			],
+			[
+				"userhisto",
+				"partials/users/user_history_wg.tpl.html"
+			],
+			[
+				"ouga",
+				"partials/payments/outgame_payment.tpl.html"
+			],
+			[
+				"userc",
+				"scripts/controllers/user.ctrl.js"
+			],
+			[
+				"exchangeft",
+				"scripts/services/factories/exchange.ft.js"
+			],
+			[
+				"exchangehistro",
+				"partials/exchange/history/index.tpl.html"
+			],
+			[
+				"statcoi",
+				"scripts/controllers/statistic/stat_coin.ctrl.js"
+			],
+			[
+				"statu",
+				"scripts/controllers/statistic/stat_user.ctrl.js"
+			],
+			[
+				"userinde",
+				"partials/users/index.tpl.html"
+			],
+			[
+				"paymentcoin",
+				"partials/payments/user_coin.tpl.html"
+			],
+			[
+				"payft",
+				"scripts/services/factories/payment.ft.js"
+			],
+			[
+				"payall",
+				"partials/payments/all.tpl.html"
+			],
+			[
+				"",
+				"scripts/controllers/exchange/exchange_history.ctrl.js"
+			],
+			[
+				"exchange_hi",
+				"scripts/controllers/exchange/exchange_history.ctrl.js"
+			],
+			[
+				"exh",
+				"scripts/controllers/exchange/exchange_history.ctrl.js"
+			],
+			[
+				"ex",
+				"scripts/controllers/exchange.ctrl.js"
+			],
+			[
+				"admin",
+				"scripts/controllers/admin.ctrl.js"
+			],
+			[
+				"out",
+				"partials/payments/outgame_payment.tpl.html"
+			],
+			[
+				"paymentf",
+				"scripts/services/factories/payment.ft.js"
+			],
+			[
+				"exhcn",
+				"scripts/controllers/exchange/exchange_history.ctrl.js"
+			],
+			[
+				"paymenout",
+				"partials/payments/outgame_payment.tpl.html"
+			],
+			[
+				"banner",
+				"partials/adv_banner/index.tpl.html"
+			],
+			[
+				"feedback",
+				"partials/feedback/index.tpl.html"
+			],
+			[
+				"pcied",
+				"partials/pci/edit.tpl.html"
+			],
+			[
+				"pci",
+				"scripts/controllers/pci.ctrl.js"
+			],
+			[
+				"pciin",
+				"partials/pci/index.tpl.html"
+			],
+			[
+				"event",
+				"scripts/controllers/event.ctrl.js"
+			],
+			[
+				"exchangeinve",
+				"partials/exchange/inventory/index.tpl.html"
+			],
+			[
+				"paymentoutg",
+				"partials/payments/outgame_payment.tpl.html"
+			],
+			[
+				"paymentall",
+				"partials/payments/all.tpl.html"
+			],
+			[
+				"pay.ctr",
+				"scripts/controllers/pay.ctrl.js"
+			],
+			[
+				"messageindex",
+				"partials/message/index.tpl.html"
+			],
+			[
+				"messageedit",
+				"partials/message/edit.tpl.html"
+			],
+			[
+				"messagef",
+				"scripts/services/factories/message.ft.js"
+			],
+			[
+				"messag",
+				"scripts/controllers/message.ctrl.js"
+			],
+			[
+				"exchangef",
+				"scripts/services/factories/exchange.ft.js"
+			],
+			[
+				"exchangeinvento",
+				"partials/exchange/inventory/create.tpl.html"
+			],
+			[
+				"user",
+				"partials/users/user_exchange_history_wg.tpl.html"
+			],
+			[
+				"userwg",
+				"partials/users/user_exchange_history_wg.tpl.html"
+			],
+			[
+				"exchange",
+				"scripts/controllers/exchange/exchange_history.ctrl.js"
+			],
+			[
+				"exchangehistory",
+				"partials/exchange/history/index.tpl.html"
+			],
+			[
+				"usercoinw",
+				"partials/users/user_coin_wg.tpl.html"
+			],
+			[
+				"authen",
+				"scripts/services/authen.svs.js"
+			],
+			[
+				"login",
+				"scripts/controllers/login.ctrl.js"
+			],
+			[
+				"styl",
+				"assets/css/style.css"
+			],
+			[
+				"userco",
+				"partials/users/user_coin_wg.tpl.html"
+			],
+			[
+				"userft",
+				"scripts/services/factories/users.ft.js"
+			],
+			[
+				"exch",
+				"scripts/services/factories/exchange.ft.js"
+			],
+			[
+				"exchangeconfig",
+				"partials/exchange/config/index.tpl.html"
+			],
+			[
+				"exchageedit",
+				"partials/exchange/config/edit.tpl.html"
+			],
+			[
+				"custom",
+				"partials/users/customer_care_wg.tpl.html"
+			],
+			[
+				"exchagehist",
+				"partials/exchange/history/index.tpl.html"
+			],
+			[
+				"statusuer",
+				"partials/statistics/user/user_active_wg.tpl.html"
+			],
+			[
+				"statuser",
+				"scripts/controllers/statistic/stat_user.ctrl.js"
+			],
+			[
+				"stat",
+				"scripts/controllers/stat.ctrl.js"
+			],
+			[
+				"exc",
+				"scripts/controllers/exchange.ctrl.js"
+			],
+			[
+				"con",
+				"scripts/constant.conf.js"
+			],
+			[
+				"adminft",
+				"scripts/services/factories/admin.ft.js"
+			],
+			[
+				"admintp",
+				"partials/admin/index.tpl.html"
+			],
+			[
+				"admi",
+				"scripts/controllers/admin.ctrl.js"
+			],
+			[
+				"fe",
+				"scripts/controllers/feedback.ctrl.js"
+			],
+			[
+				"c",
+				"scripts/constant.conf.js"
+			],
+			[
+				"fee",
+				"scripts/controllers/feedback.ctrl.js"
+			],
+			[
+				"payment",
+				"partials/payments/outgame_payment.tpl.html"
+			],
+			[
+				"adminindex",
+				"partials/admin/index.tpl.html"
+			],
+			[
+				"reset",
+				"partials/admin/reset.tpl.html"
+			],
+			[
+				"feedbackt",
+				"partials/feedback/index.tpl.html"
+			],
+			[
+				"payout",
+				"partials/payments/outgame_payment.tpl.html"
+			],
+			[
+				"ho",
+				"partials/home.html"
+			],
+			[
+				"paymenttf",
+				"scripts/services/factories/payment.ft.js"
+			],
+			[
+				"tel",
+				"partials/payments/telco.tpl.html"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"mai",
+				"scripts/services/main.svs.js"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"ma",
+				"scripts/services/main.svs.js"
+			],
+			[
+				"eventupdat",
+				"partials/events/update.tpl.html"
+			],
+			[
+				"feedbackindex",
+				"partials/feedback/index.tpl.html"
+			],
+			[
+				"usertp",
+				"partials/users/user_history_wg.tpl.html"
+			],
+			[
+				"app.",
+				"scripts/app.js"
+			],
+			[
+				".g",
+				".gitignore"
+			],
+			[
+				"excahngetp",
+				"partials/exchange/index.tpl.html"
+			],
+			[
+				"excha",
+				"scripts/controllers/exchange.ctrl.js"
+			],
+			[
+				"award",
+				"scripts/controllers/award.ctrl.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

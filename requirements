@@ -1,0 +1,6 @@
+# The asyncio module is in the standard library, but the code also
+# requires the aiohttp package.
+#
+# Install this package by run "python3 -m pip install -r requirements".
+
+aiohttp>=0.21
