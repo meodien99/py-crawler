@@ -75,4 +75,4 @@ Done: 169
 Date: Sun Jun  5 22:15:32 2016 local time
 
 ```
-Note: Currently, you need to use `ctrl + C` to stop crawling immediately.
+Note: Currently, you should to use `ctrl + C` to stop crawling immediately.
